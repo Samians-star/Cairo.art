@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32982410/README.md)
 # Cairo School of Art & Calligraphy — Website
 
 The public website for Cairo School of Art & Calligraphy, in collaboration with
